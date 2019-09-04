@@ -2,11 +2,7 @@
 .body {
 	border: solid 2px black;
 	width: 70%;
-<<<<<<< HEAD
 	background-color: #8e8383;
-=======
-	background-color: black;
->>>>>>> 220d4c47ac8fb0633a5e4e1a2870bc3efe6d2667
 	margin-right: 15%;
 	margin-left: 15%;
 	font-family: Helvetica;
@@ -49,7 +45,6 @@ h3 {
 	color: #5c5c61;
 }
 
-<<<<<<< HEAD
  input[type=text], select, textarea {
     width: 60%;
     padding: 12px;
@@ -113,6 +108,3 @@ color: white;
 .contact-form{
 	text-align: center;
 }
-=======
-
->>>>>>> 220d4c47ac8fb0633a5e4e1a2870bc3efe6d2667
