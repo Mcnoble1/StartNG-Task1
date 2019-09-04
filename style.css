@@ -1,0 +1,48 @@
+
+.body {
+	border: solid 2px black;
+	width: 70%;
+	background-color: black;
+	margin-right: 15%;
+	margin-left: 15%;
+	font-family: Helvetica;
+	color: #5c5c61;
+}
+.pic {
+	margin-right: 20px;
+	float: right;
+	border-radius: 40%;
+	height: 200px;
+}
+.heading {
+	height: 200px;
+	margin-top: none;
+	padding: 10px;
+	background-color: #5c5c61;
+}
+.sect {
+	background-color: white;
+	padding: 10px;
+}
+.name {
+	font-size: 30px;
+	color: white;
+}
+.post {
+	font-size: 20px;
+	color: white;
+}
+.info {
+	color: white;
+}
+.spa1 {
+	margin-left: 13%;
+}
+.spa2 {
+	margin-left: 16%;
+}
+h3 {
+	color: #5c5c61;
+}
+
+
